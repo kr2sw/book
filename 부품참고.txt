@@ -1,0 +1,18 @@
+저항
+
+가변저항
+
+LED
+
+온습도센서
+
+모션센서
+
+초음파센서
+
+LDR(photoresistor)
+다이오드
+	1N4007	정류다이오드
+Transistors
+	2N2222	스위치 TR
+	TMP36	온도센서
